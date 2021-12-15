@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:N6Kp32k5RyaH7t09-hf_qA
+url: https://github.com/chrisjws-harness/adminlab
+urlType: REPO
+username: git
